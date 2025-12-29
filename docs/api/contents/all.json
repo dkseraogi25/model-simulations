@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-12-29T06:12:44.326311Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-12-29T06:15:45.972531Z",
+      "mimetype": null,
+      "name": "gradient_descent.ipynb",
+      "path": "gradient_descent.ipynb",
+      "size": 20589,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-12-29T06:12:44.326311Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-12-28T11:54:30.864251Z",
+      "mimetype": "text/plain",
+      "name": "problem.txt",
+      "path": "problem.txt",
+      "size": 195,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-12-29T06:12:44.331096Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-12-29T06:13:25.278931Z",
+      "mimetype": null,
+      "name": "simulations",
+      "path": "simulations",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2025-12-29T06:12:44.325048Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-12-29T06:17:10.980143Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

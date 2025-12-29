@@ -1,0 +1,2 @@
+I want to build a notebook which would take functions as input and generate their plots. 
+I also want ability to run gradient descent on those functions and visualize the optimization process.
