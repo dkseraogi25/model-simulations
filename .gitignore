@@ -45,6 +45,9 @@ simulations/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+# JupyterLite
+.jupyterlite.doit.db
+
 # IPython
 profile_default/
 ipython_config.py
